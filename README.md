@@ -4,9 +4,9 @@
 
 -🌱 I’m currently learning ...W3school, CloudGuru and Udemy
 
--💞️ I’m looking to collaborate on ..researching and learning to build up my portfolio in Github 
+-💞️ Presently researching and learning to build up my portfolio in Github 
 
--😄 Pronouns: Hopeful, Flexible, Healthy
+-😄 Pronouns: Optimistic, Adaptable, Curious
 
 -⚡ Fun fact: I'm a wrestling fan and a family man
 <!---
