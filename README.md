@@ -8,7 +8,7 @@
 
 -😄 Pronouns: Optimistic, Adaptable, Curious
 
--⚡ Fun fact: I'm a wrestling fan and a family man
+-⚡ Fun fact: I'm a wrestling fan 
 <!---
 ReubenChan/ReubenChan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
