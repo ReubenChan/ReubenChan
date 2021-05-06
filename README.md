@@ -1,8 +1,8 @@
 -👋 Hi, I’m @ReubenChan
 
--👀 I’m interested in ...Linux, Python, Ansible and Terraform 
+-👀 I’m interested in ...Linux, Python, Azure, Ansible and Terraform 
 
--🌱 I’m currently learning ...W3school, CloudGuru and Udemy
+-🌱 I’m currently learning from ...W3school, CloudGuru, Microsoft Azure and Udemy
 
 -💞️ Presently researching and learning to build up my portfolio in Github 
 
