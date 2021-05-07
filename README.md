@@ -9,6 +9,8 @@
 -😄 Pronouns: Optimistic, Adaptable, Curious
 
 -⚡ Fun fact: I'm a wrestling fan 
+
+[![Reuben Chan GitHub stats](https://github-readme-stats.vercel.app/api?username=ReubenChan)](https://github.com/ReubenChan/github-readme-stats)
 <!---
 ReubenChan/ReubenChan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
