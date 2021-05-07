@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Reuben Chan</h1>
 <h3 align="center">I'm undergoing traineeship for 3 months bootcamp + 6 months apprenticeship to become a Cloud Support and DevOps practitioner!</h3>
 
-- 🔭 I’m currently working on **contributing on GitHub repo's, bulding my own python projects**
+- 🔭 I’m currently working on **contributing on GitHub repo's and bulding my own python projects**
 
 - ⚡ Fun fact **I love to watch aeroplanes**
 
