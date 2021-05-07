@@ -1,6 +1,4 @@
-![Hello There](https://user-images.githubusercontent.com/81150223/117401481-3e680a80-af37-11eb-86c4-7e40cd2fa335.gif)
-
-
+![giphy](https://user-images.githubusercontent.com/81150223/117401675-99016680-af37-11eb-8215-a5707d8a122e.gif)
 
 -👋 Hi, I’m @ReubenChan
 
