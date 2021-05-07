@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Reuben Chan</h1>
 <h3 align="center">I'm undergoing traineeship for 3 months bootcamp + 6 months apprenticeship to become a Cloud Support and DevOps practitioner!</h3>
 
-- 🔭 I’m currently working on **contributing on GitHub repo's and bulding my own python projects** <img src="https://img.shields.io/static/v1?label=GITHUB&message=PYTHON&color=blueviolet">
+- 🔭 I’m currently working on **contributing towards GitHub repo's and bulding my own python projects** <img src="https://img.shields.io/static/v1?label=GITHUB&message=PYTHON&color=blueviolet">
    
 - ⚡ Fun fact **I love to watch aeroplanes** <img src="https://img.shields.io/badge/777%20and-380-blue.svg" alt="777 & 380">
 
