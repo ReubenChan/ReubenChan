@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ReubenChan/ReubenChan/master/Hello There.gif" width="30px">
+![Hello there](https://giphy.com/gifs/SS8ZlHa3ZA3ZaI71JG)
 
 
 -👋 Hi, I’m @ReubenChan
