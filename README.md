@@ -2,15 +2,7 @@
 
 -👋 Hi, I’m @ReubenChan
 
--👀 I’m interested in ...Linux, Python, Azure, Ansible and Terraform 
-
--🌱 I’m currently learning from ...W3school, CloudGuru, Microsoft Azure and Udemy
-
--💞️ Presently researching and learning to build up my portfolio in Github 
-
--😄 Pronouns: Optimistic, Adaptable, Curious
-
--⚡ Fun fact: I'm a wrestling fan 
+-👀 I’m currently upskilling in ...<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />  <img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>  <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReubenChan&layout=compact)](https://github.com/ReubenChan/github-readme-stats)
 
