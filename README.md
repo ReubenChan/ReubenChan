@@ -1,4 +1,4 @@
-![Hello there](https://giphy.com/gifs/SS8ZlHa3ZA3ZaI71JG)
+![Hello there](https://giphy.com/gifs/SS8ZlHa3ZA3ZaI71JG.gif)
 
 
 -👋 Hi, I’m @ReubenChan
