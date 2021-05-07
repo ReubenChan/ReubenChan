@@ -14,7 +14,8 @@
 
 ![Reuben Chan GitHub stats](https://github-readme-stats.vercel.app/api?username=ReubenChan&show_icons=true&theme=tokyonight)
 
-[![Reuben Chan wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ReubenChan)](https://github.com/ReubenChan/github-readme-stats)
+[![Reuben's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ReubenChan)](https://github.com/ReubenChan/github-readme-stats)
+
 <!---
 ReubenChan/ReubenChan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
