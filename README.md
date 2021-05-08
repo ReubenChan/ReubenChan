@@ -2,7 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Reuben Chan</h1>
 <h3 align="center">I'm undergoing traineeship for 3 months bootcamp + 6 months apprenticeship to become a Cloud Support and DevOps practitioner!</h3>
-**Organise by:** ![Generation Singapore](https://user-images.githubusercontent.com/81150223/117518859-0367e480-afd4-11eb-87ed-216375321720.png)
+**Organise by:**![generation singapore](https://user-images.githubusercontent.com/81150223/117519488-47f47f80-afd6-11eb-824d-8ba18d127423.jpg)
+
+
+
 **Our Business Partner:**
 
 
