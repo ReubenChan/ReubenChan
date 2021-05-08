@@ -2,11 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Reuben Chan</h1>
 <h3 align="center">I'm undergoing traineeship for 3 months bootcamp + 6 months apprenticeship to become a Cloud Support and DevOps practitioner!</h3>
-**Organise by:**![generation singapore](https://user-images.githubusercontent.com/81150223/117519488-47f47f80-afd6-11eb-824d-8ba18d127423.jpg)
+
+**Organize by:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Our Business Partner:**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Area of Study:**
+
+<img src="https://user-images.githubusercontent.com/81150223/117519640-f3053900-afd6-11eb-8a2d-71c4eb849e23.jpg" width="110" title="hover text"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/81150223/117519854-095fc480-afd8-11eb-97e9-6239346a31f7.png" width="110" title="hover text"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/81150223/117520107-36f93d80-afd9-11eb-908c-89ca42248f65.png" width="110" title="hover text"> 
 
 
 
-**Our Business Partner:**
 
 
 - 🔭 I’m currently working on **contributing towards GitHub repo's and bulding my own python projects** <img src="https://img.shields.io/static/v1?label=GITHUB&message=PYTHON&color=blueviolet">
