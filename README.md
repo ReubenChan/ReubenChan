@@ -29,7 +29,7 @@
 
 [1]: https://www.linkedin.com/in/reubenchanep/
 
-<img src="https://wakatime.com/share/@reubenchan/17934da5-2a36-41ab-8107-d651fff439c8.svg" height:="150"/>
+<img src="https://wakatime.com/share/@reubenchan/17934da5-2a36-41ab-8107-d651fff439c8.svg" height="400"/>
 
 
 
