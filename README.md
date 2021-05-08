@@ -23,12 +23,12 @@
 
 ![Reuben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReubenChan&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReubenChan&layout=compact)](https://github.com/ReubenChan/github-readme-stats)
 
-### Connect me @ ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FReubenChan8)
-### You can find me on [![LinkedIn][1.2]][1] for further information 
-
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+### Connect me @  &nbsp; ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FReubenChan8) &nbsp; and  &nbsp; [![LinkedIn][1.2]][1]
+  
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
 
 [1]: https://www.linkedin.com/in/reubenchanep/
+
 
 
 <!---
