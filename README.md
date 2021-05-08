@@ -21,15 +21,23 @@
 
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />  <img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>  <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
 
-![Reuben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReubenChan&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReubenChan&layout=compact)](https://github.com/ReubenChan/github-readme-stats)
-
 ### Connect me @  &nbsp; ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FReubenChan8) &nbsp; and  &nbsp; [![LinkedIn][1.2]][1]
   
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
 
 [1]: https://www.linkedin.com/in/reubenchanep/
 
-<img src="https://wakatime.com/share/@reubenchan/17934da5-2a36-41ab-8107-d651fff439c8.svg" height="400"/>
+<details>
+  <summary>Click to expand!</summary>
+   
+![Reuben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReubenChan&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReubenChan&layout=compact)](https://github.com/ReubenChan/github-readme-stats)
+
+</details>
+<details>
+  <summary>Click to expand!</summary>
+  <img src="https://wakatime.com/share/@reubenchan/17934da5-2a36-41ab-8107-d651fff439c8.svg" height="400"/>"
+
+</details>
 
 
 
