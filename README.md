@@ -35,7 +35,7 @@
 </details>
 <details>
   <summary>Click to expand!</summary>
-  <img src="https://wakatime.com/share/@reubenchan/79b42d01-1dc0-4026-bbbe-4f3d7e5a1af8.svg" height="400"/>"
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@reubenchan/3eeea877-c110-469b-ab3f-07e8e4c8b3c4.png"height="500" /></a>
 
 </details>
 
